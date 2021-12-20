@@ -1,7 +1,7 @@
 <h2><p align=center> ETL of Movie Datasets </p> </h2>
 
 <h3><p> Purpose </p></h3>
-This analysis uses the movie and ratings datasets from three different sources, Wikipedia, Movielens and Kaggle. The main purpose of the analysis is to clean the data, transform and extract and load the clean data into a database. 
+This analysis uses the movie and ratings datasets from three different sources, Wikipedia, Movielens and Kaggle. The main purpose of the analysis is to clean, transform and load data into a database. 
 
 <h3><p> Resources: </p></h3>
 Data Source: movies_metadata.csv, ratings.csv, wikipedia-movies.json
